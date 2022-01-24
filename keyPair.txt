@@ -1,0 +1,7 @@
+Wrote new keypair to keypair.json
+==============================================================================
+pubkey: HTphKVwkEABXkfHjGyqnMLiTN2CYQj199s4YDB3XJxtd
+==============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+yard truly capable artefact sponsor twin boost buzz addict balcony catch eagle
+
